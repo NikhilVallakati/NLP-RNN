@@ -1,1 +1,3 @@
-:)
+Sequence to Sequence Attention Model to generate news headlines using brief summaries.
+Built an encoder-decoder model using Gated Recurrent Units and attention module is added. 
+A total of 98,400 are used for the model training purposes and the predictions are satisfactory:)
